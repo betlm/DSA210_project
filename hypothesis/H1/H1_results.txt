@@ -1,0 +1,10 @@
+H1: Magnitude vs Economic Damage
+=================================
+Test      : Spearman Correlation
+n         : 271
+rho       : 0.1640
+p-value   : 0.006831
+Significant (α=0.05): True
+
+Conclusion:
+REJECT H0 — Higher magnitude earthquakes cause significantly greater economic damage.
