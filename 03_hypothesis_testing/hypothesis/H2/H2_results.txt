@@ -1,0 +1,17 @@
+H2: Income Level vs Economic Vulnerability
+==========================================
+Test 1    : Kruskal-Wallis
+H         : 9.7500
+p-value   : 0.020815
+Significant (α=0.05): True
+
+Test 2    : Mann-Whitney U (Bonferroni corrected)
+  Low                  vs Lower-Middle         | p=0.0603 | significant: NO
+  Low                  vs Upper-Middle         | p=0.0308 | significant: YES
+  Low                  vs High                 | p=0.0715 | significant: NO
+  Lower-Middle         vs Upper-Middle         | p=1.0000 | significant: NO
+  Lower-Middle         vs High                 | p=1.0000 | significant: NO
+  Upper-Middle         vs High                 | p=1.0000 | significant: NO
+
+Conclusion:
+REJECT H0 — Income level significantly affects relative economic damage.
