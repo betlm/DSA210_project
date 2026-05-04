@@ -1,0 +1,7 @@
+feature,importance
+pre_event_avg_gdp,0.35855484779309665
+unemployment_event_year,0.20198004259378632
+gdp_per_capita_event_year,0.1888382467548552
+usgs_depth_km,0.11548425574940689
+magnitude,0.1003107892180338
+income_encoded,0.034831817890821105
